@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         <!-- TITLE OF WEBSITE-->
+    <title>HTML PAGE USING PARAGRAPH TAG</title>
+</head>
+<body>
+          <!-- BODY OF WEBSITE-->
+	  		 <!--EXAMPLE OF PARAGRAPH TAG & HEADING TAGS -->
+		<h1>ABOUT ME</h1>  <!-- Heading Tag(h1-h6)-->
+		<P> This is the example of paragraph and heading tag in HTML </p> 
+
+		<h2> About Me </h2>  <!-- Heading Tag(h1-h6)-->
+		<p> This is the example of paragraph and heading tag in<strong> HTML </strong> using "strong" tag to bold the text </p> 
+		
+</body>
+
+<footer>
+          <!-- FOOTER OF WEBSITE-->
+</footer>
+</html>
+<!--Save as 2nd.html-->
