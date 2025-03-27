@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         <!-- TITLE OF WEBSITE-->
+    <title>HTML PAGE USING TABLE TAG</title>
+</head>
+<body>
+                         <!-- BODY OF WEBSITE-->
+			  <!-- EXAMPLE OF TABLE TAG-->
+	<TABLE BORDER="1" align="center" BGCOLOR="RED"> <!--TABLE TAG USING BORDER(1,2,3,4,5...),BACKGROUND COLOR(RED,GREEN,BLUE..) AND ALIGN(LEFT,RIGHT OR CENTER) ATTRIBUTES-->
+ <caption>Example of table</caption>
+<TR>                         <!-- TABLE ROW-->
+<TH>HEADER1</TH>	     <!-- TABLE HEADER1-->
+<TH>HEADER2</TH>	     <!-- TABLE HEADER2-->
+<TH>HEADER3</TH>	     <!-- TABLE HEADER3-->
+<Th>HEADER4</TH>             <!-- TABLE HEADER4-->
+<TH>HEADER5</TH>             <!-- TABLE HEADER5-->	    
+<TH>HEADER6</TH>	      <!-- TABLE HEADER5-->
+</TR>
+<tr>
+<td>Row 1, Cell 1</td>       <!-- TABLE DATA-->
+<tD>Row 1, Cell 2</td>       <!-- HTML IS NOT CASE SENSITIVE-->
+<td>Row 1, Cell 3</td>
+<td>Row 1, Cell 4</td>
+<td>Row 1, Cell 5</td>
+<td>Row 1, Cell 6</td>
+</tr>
+</body>
+
+<footer>
+          <!-- FOOTER OF WEBSITE-->
+</footer>
+</html>
+<!--Save as TABLE.html-->
