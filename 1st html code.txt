@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         <!-- TITLE OF WEBSITE-->
+    <title>1ST HTML PAGE</title>
+</head>
+<body>
+          <!-- BODY OF WEBSITE-->
+		<h1>Hello</h1>  <!-- Heading Tag(h1-h6)-->
+</body>
+
+<footer>
+          <!-- FOOTER OF WEBSITE-->
+</footer>
+</html>
+<!--Save as 1st.html-->
