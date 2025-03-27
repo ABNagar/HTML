@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         <!-- TITLE OF WEBSITE-->
+    <title>LINK TAG</title>
+</head>
+<body>
+                         <!-- BODY OF WEBSITE-->
+			  <!-- EXAMPLE OF LINK TAG-->
+	
+    
+        <h3>google</h3>
+	<a href="https://www.google.com">Click on link</a>
+	<h3>Akhilesh Nagar</h3>
+	<a href="http://www.akhileshnagar.in">Click on link</a>
+       
+   
+</body>
+
+<footer>
+          <!-- FOOTER OF WEBSITE-->
+</footer>
+</html>
+<!--Save as LINK.html-->
