@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         <!-- TITLE OF WEBSITE-->
+    <title>HTML PAGE USING IMAGE TAG</title>
+</head>
+<body>
+          <!-- BODY OF WEBSITE-->
+	  	    
+        <h2>Student Introduction</h2>
+
+	       <!-- Image tag -->
+        <img src="C:\Users\abc\Desktop\111.jfif" alt="Student Image" width="150" height="150">
+
+        <p><strong>Student Name:</strong>Amit Kumar</p>
+
+        <p><strong>Class:</strong> 10th Grade</p>
+</body>
+
+<footer>
+          <!-- FOOTER OF WEBSITE-->
+</footer>
+</html>
+<!--Save as image1.html-->
