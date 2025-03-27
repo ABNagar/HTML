@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         <!-- TITLE OF WEBSITE-->
+    <title>1ST HTML PAGE USING ALL HEADING TAGS</title>
+</head>
+<body>
+          <!-- BODY OF WEBSITE-->
+	  		 <!--EXAMPLE OF HEADING TAGS -->
+		<h1>Hello</h1>  <!-- Heading Tag(h1-h6)-->
+		<h2>Hello</h2>  <!-- Heading Tag(h1-h6)-->
+		<h3>Hello</h3>  <!-- Heading Tag(h1-h6)-->
+		<h4>Hello</h4>  <!-- Heading Tag(h1-h6)-->
+		<h5>Hello</h5>  <!-- Heading Tag(h1-h6)-->
+		<h6>Hello</h6>  <!-- Heading Tag(h1-h6)-->
+</body>
+
+<footer>
+          <!-- FOOTER OF WEBSITE-->
+</footer>
+</html>
+<!--Save as 2nd.html-->
