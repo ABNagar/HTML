@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         <!-- TITLE OF WEBSITE-->
+    <title>HTML PAGE USING TABLE TAG</title>
+</head>
+<body>
+                         <!-- BODY OF WEBSITE-->
+			  <!-- EXAMPLE OF TABLE TAG-->
+	 <!-- Student Marks Table -->
+    
+        <h3>Student Marks</h3>
+        <table border="5">
+            <caption><strong>Student Marks Report</strong></caption>
+            <tr>
+                <th>Subject</th>
+                <th>Marks</th>
+            </tr>
+            <tr>
+                <td>Math</td>
+                <td>85</td>
+            </tr>
+            <tr>
+                <td>Science</td>
+                <td>90</td>
+            </tr>
+            <tr>
+                <td>History</td>
+                <td>78</td>
+            </tr>
+            <tr>
+                <td>English</td>
+                <td>88</td>
+            </tr>
+            <tr>
+                <td>Geography</td>
+                <td>92</td>
+            </tr>
+        </table>
+   
+</body>
+
+<footer>
+          <!-- FOOTER OF WEBSITE-->
+</footer>
+</html>
+<!--Save as TABLE1.html-->
