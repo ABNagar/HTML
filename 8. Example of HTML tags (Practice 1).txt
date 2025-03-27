@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Quiz and Student Marks</title>
+</head>
+<body>
+
+    <!-- Student Introduction -->
+    
+        <h2>Student Introduction</h2>
+        <img src="C:\Users\abnag\OneDrive\Desktop\111.jfif" alt="Student Image" width="150" height="150">
+        <p><strong>Student Name:</strong>Amit Kumar</p>
+        <p><strong>Class:</strong> 10th Grade</p>
+    
+
+    <!-- Questions Section -->
+   
+        <h3>Quiz Questions</h3>
+
+        <!-- Question 1 -->
+        <p><strong>1. What is the capital of India?</strong></p>
+        <ul> <li>A) Delhi</li><br>
+		<li>B) Greater Noida</li><br>
+			<li>C) Bihar</li><br>
+				<li>D) Rajasthan</li><br>
+        
+</ul>
+
+        <!-- Question 2 -->
+        <p>2. What is the largest planet in our solar system?</p>
+        <ul> <li>A) Earth</li><br>
+		<li>B)  Mars</li><br>
+			<li>C) Jupiter</li><br>
+				<li>D) Saturn</li><br>
+        
+</ul>
+
+        <!-- Question 3 -->
+        <p><strong>3. What is the chemical symbol for water?</strong></p>
+        <ol> <li> H2O</li><br>
+		<li>  D2O</li><br>
+			<li> C2O</li><br>
+				<li> G2O</li><br>
+        
+</ol>
+
+        <!-- Question 4 -->
+        <p><strong>4. Who developed the theory of relativity?</strong></p>
+       <ol> <li>Isaac Newton</li><br>
+		<li>Albert Einstein</li><br>
+			<li>Galileo Galilei</li><br>
+				<li> Nikola Tesla</li><br>
+        
+</ol>
+		 <!-- Introduction 1 -->
+        <p><strong>5.terms used in WT?</strong></p>
+
+        <dl><!-- Description List-->
+        <dt>HTML</dt><!--DESCRIPTION TERM-->
+        <dd>HyperText Markup Language, the standard markup language for creating web pages.</dd><!Definition Description-->
+        
+        <dt>CSS</dt>
+        <dd>Cascading Style Sheets, used for styling HTML content.</dd>
+        
+        <dt>JavaScript</dt>
+        <dd>A programming language used to create interactive effects within web browsers.</dd>
+    </dl>
+
+    <!-- Student Marks Table -->
+    
+        <h3>Student Marks</h3>
+        <table border="1">
+            <caption><strong>Student Marks Report</strong></caption>
+            <tr>
+                <th>Subject</th>
+                <th>Marks</th>
+            </tr>
+            <tr>
+                <td>Math</td>
+                <td>85</td>
+            </tr>
+            <tr>
+                <td>Science</td>
+                <td>90</td>
+            </tr>
+            <tr>
+                <td>History</td>
+                <td>78</td>
+            </tr>
+            <tr>
+                <td>English</td>
+                <td>88</td>
+            </tr>
+            <tr>
+                <td>Geography</td>
+                <td>92</td>
+            </tr>
+        </table>
+   
+
+</body>
+<footer>
+  <a href="https://www.google.com">Click on link</a>
+
+</footer>
+</html>
