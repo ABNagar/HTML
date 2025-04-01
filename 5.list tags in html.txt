@@ -21,7 +21,7 @@
                          <!-- Question 2 -->
         <p><strong>2. What is the chemical symbol for water?</strong></p>
 			 <!-- 1.ORDERED LIST-->
-        <ol> <li> H2O</li><br>
+        <ol> <li> H2O</li><br>     <!-- we can also define the types in orderlist like: <ol type="1"> ,<ol type="A", <ol type="a"> or <ol type="I">-->
 	     <li>  D2O</li><br>
 	     <li> C2O</li><br>
 	     <li> G2O</li><br>
